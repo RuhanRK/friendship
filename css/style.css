@@ -74,7 +74,7 @@ header h1{
   background: #F9F9F9;
   position: relative;
   left: 50%;
-  top: 50%;
+  top: 40%;
   transform: translate(-50%, -50%);
   perspective: 1000px;
   font-family: 'Oleo Script', cursive;
