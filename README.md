@@ -1,6 +1,6 @@
 ## Friendship Card
 
-Check awesome friendship card[Friendship Card](https://pages.github.com/).
+Check awesome friendship card[Friendship Card](https://ruhanrk.github.io/friendship/).
 
 
 
