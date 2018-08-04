@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Friendship</title>
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <!-- Emoji CSS -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- Font Awesome CSS -->
@@ -17,6 +19,22 @@
     <header>
         <h1>Happy Friendship Day</h1>
     </header>
+    <audio id="myAudio">
+      <source src="audio/Hindi.mp3"></source>
+      Your browser isn't invited for super fun audio time.
+    </audio>
+    <audio id="myAudioEng">
+        <source src="audio/english.mp3"></source>
+        Your browser isn't invited for super fun audio time.
+      </audio>
+    <div class="sound">
+      <p>Play Music Hindi Version 
+          <a onClick="togglePlay()" class="music"><i class="fas fa-music"></i></a>
+      </p>
+      <p>Play Music English Version 
+          <a onClick="togglePlayEng()" class="music"><i class="fas fa-music"></i></a>
+      </p>
+    </div>
     <div class="main"></div>
       <div class="container">
           <div class="cover">
@@ -49,6 +67,6 @@
       </div>
     </div>
 
-    
+    <script src="js/app.js"></script>
 </body>
 </html>

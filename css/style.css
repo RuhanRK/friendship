@@ -26,6 +26,23 @@ body{
 header{
     text-align: center;
 }
+.sound{
+    text-align: center;
+}
+.sound p{
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.42);
+    border-radius: 10px;
+    padding: 10px 10px;
+    color: #fff;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.sound p .fas{
+    color: #51d942;
+    cursor: pointer;
+}
 .main{
     /* min-height: 40vh; */
     display: flex;
@@ -94,7 +111,6 @@ section{
   background: rgb(26, 78, 112);
 }
 .back{
-  background: green;
   transform: rotateY(180deg);
 }
 
