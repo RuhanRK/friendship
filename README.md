@@ -6,6 +6,6 @@ Check awesome friendship card[Friendship Card](https://pages.github.com/).
 
 Here some screenshot
 
-![Friendship card]()
+![Friendship card](https://github.com/RuhanRK/friendship/blob/master/Capture1.PNG)
 
-![Friendship card]()
+![Friendship card](https://github.com/RuhanRK/friendship/blob/master/capture2.png)
